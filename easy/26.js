@@ -12,7 +12,6 @@ var removeDuplicates = function(nums) {
             index++;
         }
     }
-
-    nums.length = index; // Redimensionăm array-ul pentru a elimina elementele duplicate
+    nums.length = index;
     return index;
 };
