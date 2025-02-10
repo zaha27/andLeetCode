@@ -7,7 +7,7 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
- */
+
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
@@ -26,3 +26,5 @@ public:
     return head;
 }
 };
+
+ */
