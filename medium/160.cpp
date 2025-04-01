@@ -13,6 +13,7 @@ ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
     ListNode* a = headA;
     ListNode* b = headB;
     
+    
     while (a) {
         lenA++;
         a = a->next;
