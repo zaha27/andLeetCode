@@ -1,4 +1,4 @@
-/**
+/*
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -7,7 +7,6 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
- */
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
@@ -23,3 +22,5 @@ public:
         return head;
     }
 };
+
+*/
