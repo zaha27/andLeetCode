@@ -1,1 +1,2 @@
 3727 - rezolvata corect, pusa in leetcode si testata
+1423 - rezolvata corect, pusa in leetcode si testata
